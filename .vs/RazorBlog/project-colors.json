@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "59705427-0236-48fd-927c-7edf4f12571a": {
+      "ProjectGuid": "59705427-0236-48fd-927c-7edf4f12571a",
+      "DisplayName": "RazorBlog.UI",
+      "ColorIndex": 0
+    },
+    "8ad1797a-a8f0-43c6-9eac-7c1d301ac003": {
+      "ProjectGuid": "8ad1797a-a8f0-43c6-9eac-7c1d301ac003",
+      "DisplayName": "RazorBlog.BLL",
+      "ColorIndex": 1
+    },
+    "209c2287-f7b9-43d0-93c7-3dcf52ef603b": {
+      "ProjectGuid": "209c2287-f7b9-43d0-93c7-3dcf52ef603b",
+      "DisplayName": "RazorBlog.DAL",
+      "ColorIndex": 2
+    },
+    "83b4fa1e-5d0c-4b98-b77d-4ef72d6cc2ed": {
+      "ProjectGuid": "83b4fa1e-5d0c-4b98-b77d-4ef72d6cc2ed",
+      "DisplayName": "RazorBlog.CORE",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
